@@ -136,7 +136,7 @@ Loop chính:                             Interrupt callback:
 
 ```bash
 # 1. Clone repo
-git clone https://github.com/YOUR_USERNAME/stm32-can-communication.git
+git clone https://github.com/tdangquang0802/stm32-can-communication.git
 
 # 2. Mở STM32CubeIDE
 #    File → Import → Existing Projects into Workspace
@@ -180,7 +180,7 @@ git clone https://github.com/YOUR_USERNAME/stm32-can-communication.git
 
 ## 🔗 Project liên quan
 
-- **Qt CAN Dashboard** (nhận và hiển thị dữ liệu từ Node 2) → [github.com/YOUR_USERNAME/qt-vehicle-can-dashboard](https://github.com/YOUR_USERNAME/qt-vehicle-can-dashboard)
+- **Qt CAN Dashboard** (nhận và hiển thị dữ liệu từ Node 2) → [github.com/tdangquang0802/qt-vehicle-can-dashboard](https://github.com/tdangquang0802/qt-vehicle-can-dashboard)
 
 ---
 
