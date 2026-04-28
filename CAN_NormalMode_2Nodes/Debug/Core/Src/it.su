@@ -1,0 +1,14 @@
+it.c:17:6:SysTick_Handler	8	static
+it.c:22:6:EXTI0_IRQHandler	8	static
+it.c:26:6:EXTI1_IRQHandler	8	static
+it.c:30:6:EXTI3_IRQHandler	8	static
+it.c:34:6:EXTI4_IRQHandler	8	static
+it.c:38:6:EXTI9_5_IRQHandler	8	static
+it.c:43:6:USB_HP_CAN1_TX_IRQHandler	8	static
+it.c:47:6:USB_LP_CAN1_RX0_IRQHandler	4	static
+it.c:51:6:CAN1_RX1_IRQHandler	4	static
+it.c:55:6:CAN1_SCE_IRQHandler	4	static
+it.c:62:6:TIM2_IRQHandler	8	static
+it.c:67:6:TIM3_IRQHandler	8	static
+it.c:75:6:USART2_IRQHandler	8	static
+it.c:86:6:ADC1_2_IRQHandler	8	static
