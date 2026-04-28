@@ -61,7 +61,6 @@ stm32-can-communication/
 │   │   └── STM32F1xx_HAL_Driver/   # STM32 HAL library
 │   ├── CAN_LoopBack.ioc            # CubeMX config file (clock, CAN, UART)
 │   ├── STM32F103C8TX_FLASH.ld      # Linker script
-│   └── README.md
 │
 ├── CAN_NormalMode_Node2/           ← Flash vào Board 2 (Receiver)
 │   ├── Core/
@@ -77,11 +76,6 @@ stm32-can-communication/
 │   ├── Drivers/
 │   ├── CAN_LoopBack.ioc
 │   ├── STM32F103C8TX_FLASH.ld
-│   └── README.md
-│
-├── docs/
-│   ├── wiring_diagram.png          # Sơ đồ nối dây 2 board
-│   └── uart_output.png             # Screenshot UART log
 │
 └── README.md                       ← File này
 ```
