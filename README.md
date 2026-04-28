@@ -61,7 +61,6 @@ stm32-can-communication/
 │   │   └── STM32F1xx_HAL_Driver/   # STM32 HAL library
 │   ├── CAN_LoopBack.ioc            # CubeMX config file (clock, CAN, UART)
 │   ├── STM32F103C8TX_FLASH.ld      # Linker script
-│   └── README.md
 │
 ├── CAN_NormalMode_Node2/           ← Flash vào Board 2 (Receiver)
 │   ├── Core/
@@ -77,11 +76,6 @@ stm32-can-communication/
 │   ├── Drivers/
 │   ├── CAN_LoopBack.ioc
 │   ├── STM32F103C8TX_FLASH.ld
-│   └── README.md
-│
-├── docs/
-│   ├── wiring_diagram.png          # Sơ đồ nối dây 2 board
-│   └── uart_output.png             # Screenshot UART log
 │
 └── README.md                       ← File này
 ```
@@ -136,7 +130,7 @@ Loop chính:                             Interrupt callback:
 
 ```bash
 # 1. Clone repo
-git clone https://github.com/YOUR_USERNAME/stm32-can-communication.git
+git clone https://github.com/tdangquang0802/stm32-can-communication.git
 
 # 2. Mở STM32CubeIDE
 #    File → Import → Existing Projects into Workspace
@@ -180,7 +174,7 @@ git clone https://github.com/YOUR_USERNAME/stm32-can-communication.git
 
 ## 🔗 Project liên quan
 
-- **Qt CAN Dashboard** (nhận và hiển thị dữ liệu từ Node 2) → [github.com/YOUR_USERNAME/qt-vehicle-can-dashboard](https://github.com/YOUR_USERNAME/qt-vehicle-can-dashboard)
+- **Qt CAN Dashboard** (nhận và hiển thị dữ liệu từ Node 2) → [github.com/tdangquang0802/qt-vehicle-can-dashboard](https://github.com/tdangquang0802/qt-vehicle-can-dashboard)
 
 ---
 
